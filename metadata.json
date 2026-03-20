@@ -1,0 +1,5 @@
+{
+  "name": "Binary Tree Simulator",
+  "description": "An interactive binary search tree visualizer with step-by-step animations, pseudo-code highlighting, and traversal support.",
+  "requestFramePermissions": []
+}
