@@ -4,8 +4,6 @@ Interactive BST Visualization & Learning Tool.
 
 This application provides an interactive visualization of a Binary Search Tree (BST). It helps you learn about tree operations such as insertion, searching, deletion, and various traversals (inorder, preorder, postorder) with step-by-step animations and accompanying pseudo-code.
 
-*i have did this like that readme*
-
 ## Getting Started
 
 **Prerequisites:** Node.js
